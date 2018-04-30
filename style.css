@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+#wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+canvas {
+  background: #ddd;
+  margin: 20px;
+}
